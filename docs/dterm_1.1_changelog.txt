@@ -1,0 +1,3 @@
+DTERM Changelog
+Added new user "customisation" (AKA. I gave them a user folder.)
+Added ~ as a viable CD path. Wow this is feeling like Unix.

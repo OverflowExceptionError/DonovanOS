@@ -1,0 +1,10 @@
+How to add shells from additional_shells:
+Step 1.
+Open /addititonal_shells.txt in your OSs file manager
+Step 2.
+Copy the contents.
+Step 3
+Open /shells.txt in your OSs file manager
+Paste the contents from Step 2 at the end of the file.
+Step 4
+Save the file.

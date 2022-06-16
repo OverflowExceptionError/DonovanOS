@@ -1,0 +1,1 @@
+The most common reason for DTerm to crash is because DTerm is requesting a user level over 'Login Prompt' (login) due to it not being intended for use with non-AU and non-SAU accounts (AU means Authority User and SAU means Super Authority User - most commonly referred in Unix as a SU or Super User *like root)
